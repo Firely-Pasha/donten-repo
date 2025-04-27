@@ -1,22 +1,4 @@
 {
-  "sources": [
-    {
-      "id": "ru.mangachan",
-      "build": 1,
-      "version": "0.0.1",
-      "name": "Mangachan",
-      "nsfw": false,
-      "lang": "ru",
-      "url": "https://im.mangachan.me"
-    },
-    {
-      "id": "ru.mangalib",
-      "build": 1,
-      "version": "0.0.1",
-      "name": "MangaLIB",
-      "nsfw": false,
-      "lang": "ru",
-      "url": "https://mangalib.me"
-    }
-  ]
+  "name": "Donten Sources Repository",
+  "url": "https://github.com/Firely-Pasha/donten-sources"
 }
