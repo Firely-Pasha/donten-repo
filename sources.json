@@ -2,8 +2,8 @@
   "sources": [
     {
       "id": "ru.mangachan",
-      "build": 1,
-      "version": "0.0.1",
+      "build": 2,
+      "version": "0.0.2",
       "name": "Mangachan",
       "nsfw": false,
       "lang": "ru",
