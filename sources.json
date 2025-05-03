@@ -2,8 +2,8 @@
   "sources": [
     {
       "id": "ru.mangachan",
-      "build": 3,
-      "version": "0.0.3",
+      "build": 4,
+      "version": "0.0.4",
       "name": "Mangachan",
       "nsfw": false,
       "lang": "ru",
@@ -11,8 +11,8 @@
     },
     {
       "id": "ru.mangalib",
-      "build": 1,
-      "version": "0.0.1",
+      "build": 2,
+      "version": "0.0.2",
       "name": "MangaLIB",
       "nsfw": false,
       "lang": "ru",
