@@ -3,7 +3,7 @@
     {
       "id": "ru.mangalib",
       "build": 3,
-      "version": "0.0.3",
+      "version": "0.0.4",
       "name": "MangaLIB",
       "nsfw": false,
       "lang": "ru",
@@ -12,7 +12,7 @@
     {
       "id": "ru.mangachan",
       "build": 5,
-      "version": "0.0.5",
+      "version": "0.0.6",
       "name": "Манга-тян",
       "nsfw": false,
       "lang": "ru",
