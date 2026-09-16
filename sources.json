@@ -1,31 +1,31 @@
 {
   "sources": [
     {
-      "id": "ru.mangalib",
-      "build": 3,
-      "version": "0.0.4",
-      "name": "MangaLIB",
+      "id": "grouple.readmanga",
+      "build": 2,
+      "version": "0.0.2",
+      "name": "ReadManga",
+      "nsfw": false,
+      "lang": "ru",
+      "url": "https://zz.readmanga.io"
+    },
+    {
+      "id": "libgroup.mangalib",
+      "build": 5,
+      "version": "0.0.6",
+      "name": "MangaLib",
       "nsfw": false,
       "lang": "ru",
       "url": "https://mangalib.me"
     },
     {
-      "id": "ru.mangachan",
-      "build": 5,
-      "version": "0.0.6",
+      "id": "multichan.mangachan",
+      "build": 6,
+      "version": "0.0.7",
       "name": "Манга-тян",
       "nsfw": false,
       "lang": "ru",
       "url": "https://im.mangachan.me"
-    },
-    {
-      "id": "ru.readmanga",
-      "build": 1,
-      "version": "0.0.1",
-      "name": "ReadManga",
-      "nsfw": false,
-      "lang": "ru",
-      "url": "https://zz.readmanga.io"
     }
   ]
 }
